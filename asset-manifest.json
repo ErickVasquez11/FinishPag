@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FinishPag/static/css/main.259edb30.chunk.css",
+    "main.js": "/FinishPag/static/js/main.ad50fe99.chunk.js",
+    "main.js.map": "/FinishPag/static/js/main.ad50fe99.chunk.js.map",
+    "runtime-main.js": "/FinishPag/static/js/runtime-main.f4966e16.js",
+    "runtime-main.js.map": "/FinishPag/static/js/runtime-main.f4966e16.js.map",
+    "static/css/2.7f2ec892.chunk.css": "/FinishPag/static/css/2.7f2ec892.chunk.css",
+    "static/js/2.3a8c0459.chunk.js": "/FinishPag/static/js/2.3a8c0459.chunk.js",
+    "static/js/2.3a8c0459.chunk.js.map": "/FinishPag/static/js/2.3a8c0459.chunk.js.map",
+    "static/js/3.aa35aebe.chunk.js": "/FinishPag/static/js/3.aa35aebe.chunk.js",
+    "static/js/3.aa35aebe.chunk.js.map": "/FinishPag/static/js/3.aa35aebe.chunk.js.map",
+    "index.html": "/FinishPag/index.html",
+    "static/css/2.7f2ec892.chunk.css.map": "/FinishPag/static/css/2.7f2ec892.chunk.css.map",
+    "static/css/main.259edb30.chunk.css.map": "/FinishPag/static/css/main.259edb30.chunk.css.map",
+    "static/js/2.3a8c0459.chunk.js.LICENSE.txt": "/FinishPag/static/js/2.3a8c0459.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4966e16.js",
+    "static/css/2.7f2ec892.chunk.css",
+    "static/js/2.3a8c0459.chunk.js",
+    "static/css/main.259edb30.chunk.css",
+    "static/js/main.ad50fe99.chunk.js"
+  ]
+}
